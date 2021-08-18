@@ -33,7 +33,7 @@ clone-netflix
 
 ## Resultado obtido
 - UI Clone
-  ![clone netflix](resultado.png)
+  <img src="./assets/images/resultado.png" title="UI Clone Netflix">
 
 ## Tecnologias utilizadas
 
