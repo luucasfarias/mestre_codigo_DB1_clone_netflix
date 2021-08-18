@@ -1,5 +1,8 @@
 # Mestre dos códigos DB1 - Clone UI Netflix
 - Participação do [programa Mestre dos Códigos da DB1](https://mestredoscodigos.com.br/) no nível escudeiro, sendo este o primeiro nível obrigatório.
+  <p align="center">
+    <img src="./assets/images/personagens.gif" title="UI Clone Netflix">
+  </p>
 
 ## Sobre o desafio
 
