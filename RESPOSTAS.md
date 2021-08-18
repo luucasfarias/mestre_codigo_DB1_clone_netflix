@@ -80,12 +80,17 @@
   ```
 
 17. Qual a melhor forma para definir um cookie utilizando javascript ?
+  Res: Para definir um cookie em js basta utilizar o objeto document e em seguida a palavra cookie.
+  ex: document.cookie = 'nome_cookie=Valor definido do cookie';
 
 18. Quais os tipos de Loops existentes em javascript ?
   Res: For, While, do...while, for...in, for...of
 
 19. Descreva com suas palavras o que é hoisting ?
+  Res: Hoisting foi pensado no js em como os contextos de execucao, fases de criacao e execusao de escopos funcionam no js, este é um conceito relativamente complexo e ate mesmo pouco mencionado na comunidade js.
 
 20. Em um ambiente do browser. Qual o valor do this utilizando "use-strict";
+  Res: Undefined
 
 21. Quando eu posso utilizar o "Use-strict" no meu código ?
+  Res: No inicio do código, sendo que esta opção se aplica ao script inteiro e também pode ser adicionado ao inicio de uma função, sendo esta instrução antes de qualquer outra declaração.
