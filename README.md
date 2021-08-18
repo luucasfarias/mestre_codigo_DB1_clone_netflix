@@ -31,7 +31,7 @@ clone-netflix
 ```
 - O arquivo RESPOSTAS.md consiste no questionario exigido no [desafio](https://https://https://db1group.github.io/mestre-dos-codigos/#/frontend) que consiste em 21 perguntas sobre tecnologias front-end.
 
-## Resultado obtido
+## Resultado
 - [Acessar clone Netflix](https://mestre-codigo-db-1-clone-netflix.vercel.app/)
 - UI Clone
   <img src="./assets/images/resultado.png" title="UI Clone Netflix">
