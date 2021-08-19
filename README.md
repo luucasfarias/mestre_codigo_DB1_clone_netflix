@@ -18,6 +18,8 @@ Uma landing page baseada nas caracteristicas visuais da [Netflix](https://https:
 ## Desenvolvimento
 Esta landing page foi baseada apenas no uso de HTML, JS e CSS, como mencionado nos critérios do desafio nao sendo permitido nenhum uso de frameworks, pre-processadores ou quaisquer outras ferramentas de abstração.
 
+- Obs: Todas as imagens utilizadas neste projeto são oriundas da [Netflix](https://https://www.netflix.com/).
+
 ## Estrutura do projeto
 ```
 clone-netflix
@@ -48,6 +50,8 @@ clone-netflix
 ## Desenvolvedor
 - Nome: Lucas Farias
 - E-mail: lucas.farias@db1.com.br
+- Time: Anymarket/Catalogo
+
 ## Licença
 
 - Este projeto está sob a licença [MIT](LICENSE).
