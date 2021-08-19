@@ -8,6 +8,10 @@ body {
   background-color: rgb(20, 20, 20);
 }
 
+.series {
+  margin-top: 20px;
+}
+
 .row-poster {
   width: 100%;
   object-fit: contain;
@@ -163,6 +167,13 @@ a {
   font-weight: bold;
 }
 
+.items-content-secondary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 10%;
+}
+
 .icon {
   color: #fff;
   font-size: 20px;
@@ -181,6 +192,17 @@ a {
   margin: 10px;
 }
 
+@media screen and (max-width: 1500px) {
+  .items-content-secondary {
+    width: 15%;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .items-content-secondary {
+    width: 20%;
+  }
+}
 @media screen and (max-width: 600px) {
   .nav-content {
     display: none;
